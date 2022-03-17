@@ -22,8 +22,8 @@ namespace Proje5_27MailGondermeUygulamasi
         {
             string
                 mailIstamcisi = "smtp.gmail.com",
-                gonMail = "ismetdayan1@gmail.com",
-                gonMailSifre = "41797296184";
+                gonMail = "exmple@mail.com",
+                gonMailSifre = "password";
 
             try
             {
